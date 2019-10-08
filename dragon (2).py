@@ -57,7 +57,7 @@ def check_cave(chosen_cave):
 
 playAgain = 'yes'
 
-while playAgain = 'yes' or playAgain = 'y':
+while playAgain == 'yes' or playAgain == 'y':
 
     display_intro()
     caveNumber = choose_cave()
